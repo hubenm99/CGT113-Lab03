@@ -1,5 +1,6 @@
 // CGT113-Lab03.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Author: Nick Huber
+//Date: 9/7/2022
 
 #include <iostream>
 using namespace std;
